@@ -84,7 +84,7 @@ git clone https://github.com/Ayushjssj/AI-Document-Analyzer
 
 ```bash
 cd backend
-pip install -r requirements.txt
+pip install requirements
 python app.py
 ```
 
