@@ -134,11 +134,11 @@ GROQ_API_KEY=your_api_key_here
 
 ## Dark Mode
 
-(Add screenshot here)
+![Dark Mode](https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195909.png?raw=true)
 
 ## Light Mode
 
-(Add screenshot here)
+![Light Mode](https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195746.png?raw=true)
 
 ---
 
@@ -184,12 +184,28 @@ AI Response
 
 ---
 
-# 👨‍💻 Author
+## 👤 Author
 
-Ayush Pandey
+### Ayush Pandey  
+Aspiring AI/ML Engineer & GenAI Enthusiast  
+
+- Python  
+- Artificial Intelligence  
+- Machine Learning  
+- Generative AI  
+- LLM Applications  
+- RAG Systems  
+- Flask  
+- React  
 
 ---
 
-# 📜 License
+## 📜 License
 
-This project is developed for educational and portfolio purposes.
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub — it really helps and motivates further development!
