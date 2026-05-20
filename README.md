@@ -130,7 +130,7 @@ GROQ_API_KEY=your_api_key_here
 
 ## Dashboard
 
-(Add screenshot here)
+![Dashboard](https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195720.png?raw=true)
 
 ## Dark Mode
 
