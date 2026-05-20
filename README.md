@@ -208,4 +208,6 @@ This project is licensed under the MIT License.
 
 ## ⭐ Support
 
-If you like this project, give it a ⭐ on GitHub — it really helps and motivates further development!
+⭐ If you like this project
+
+Give it a ⭐ on GitHub — it helps a lot!
