@@ -126,7 +126,7 @@ GROQ_API_KEY=your_api_key_here
 
 ## Login Page
 
-https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195639.png?raw=true
+![Login Page](https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195639.png?raw=true)
 
 ## Dashboard
 
