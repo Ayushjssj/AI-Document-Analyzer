@@ -75,7 +75,7 @@ AI-Document-Analyzer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Document-Analyzer.git
+git clone https://github.com/Ayushjssj/AI-Document-Analyzer
 ```
 
 ---
@@ -126,7 +126,7 @@ GROQ_API_KEY=your_api_key_here
 
 ## Login Page
 
-(Add screenshot here)
+https://github.com/Ayushjssj/AI-Document-Analyzer/blob/main/Screenshots/Screenshot%202026-05-20%20195639.png?raw=true
 
 ## Dashboard
 
